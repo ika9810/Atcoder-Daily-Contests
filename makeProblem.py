@@ -167,7 +167,7 @@ saveline.append("\n")
 f = open('ABC.md')
 lines = f.readlines()
 f.close()
-with open('./ABC.md', 'a') as f:
+with open('./ABC.md', 'w') as f:
     f.writelines(saveline + lines[5:])
     f.close()
 with open('./README.md', 'a') as f:
