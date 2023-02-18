@@ -1,2 +1,6 @@
 README Reference : https://github.com/haoel/leetcode
 README Hit Badge Reference : https://velog.io/@dot2__/Github-github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
+Atcoder Problem List : https://kenkoooo.com/atcoder/resources/problem-models.json
+kenkoooo's Atcoder API : https://github.com/kenkoooo/AtCoderProblems/blob/master/doc/api.md
+Python3 Sorting dictionary in List : https://twpower.github.io/124-python-requests-usage
+Python3 Requests json parsing Reference : https://twpower.github.io/124-python-requests-usages
