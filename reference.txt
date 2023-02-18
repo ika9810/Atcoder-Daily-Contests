@@ -1,1 +1,2 @@
 README Reference : https://github.com/haoel/leetcode
+README Hit Badge Reference : https://velog.io/@dot2__/Github-github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
