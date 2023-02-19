@@ -80,7 +80,7 @@ for i in range(len(data)):
     contest = data[i]["Contest"]
     Kyu = kyu(value)["Kyu"]
     Color = kyu(value)["Color"]
-    
+
     wr.writerow([i+1,key,value,Kyu,Color,link,contest])
 f.close()
 kyu9 = []
@@ -170,8 +170,11 @@ f.close()
 with open('./ABC.md', 'w') as f:
     f.writelines(saveline + lines[5:])
     f.close()
-with open('./README.md', 'a') as f:
-    f.writelines(saveline[5:])
+f = open('README.md')
+lines = f.readlines()
+f.close()
+with open('./README.md', 'w') as f:
+    f.writelines(lines[:-14] + saveline[5:])
     f.close()
 #Atcoder Problem List
 # I used This Link "https://kenkoooo.com/atcoder/resources/problem-models.json"
