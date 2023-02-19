@@ -9,7 +9,7 @@ Atcoder
 |---| ----- | :--------: | :----------: |  :----------: |  ---------- |
 |1|[B. Power Socket](https://atcoder.jp/contests/abc139/tasks/abc139_b)|[Python3](https://github.com/ika9810/Atcoder/blob/main/Boot%20camp%20for%20Beginners/Easy%20100/B.%20Power%20Socket.py)|[AC](https://atcoder.jp/contests/abc139/submissions/38970416)|-71|[AtCoder Beginner Contest 139](https://atcoder.jp/contests/abc139)|
 |2|[C. Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c)| [Python3](https://github.com/ika9810/Atcoder/blob/main/Boot%20camp%20for%20Beginners/Easy%20100/C.%20Rally.py)|[AC](https://atcoder.jp/contests/abc156/submissions/38978009)|-221|[AtCoder Beginner Contest 156](https://atcoder.jp/contests/abc156)|
-|4|[B. Tax Rate](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b)| [Python3](https://github.com/ika9810/Atcoder/blob/main/Boot%20camp%20for%20Beginners/Easy%20100/B.%20Tax Rate.py)|[AC](https://atcoder.jp/contests/sumitrust2019/submissions/39006470)|-139|[Sumitomo Mitsui Trust Bank Programming Contest 2019](https://atcoder.jp/contests/sumitrust2019)|
+|4|[B. Tax Rate](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b)| [Python3](https://github.com/ika9810/Atcoder/blob/main/Boot%20camp%20for%20Beginners/Easy%20100/B.%20Tax%20Rate.py)|[AC](https://atcoder.jp/contests/sumitrust2019/submissions/39006470)|-139|[Sumitomo Mitsui Trust Bank Programming Contest 2019](https://atcoder.jp/contests/sumitrust2019)|
 ### 🌟Today's Virtual Atcoder Beginner Contest (2023-02-19)
 (Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
 
@@ -37,4 +37,3 @@ Atcoder
 |F|[ABC163_E](https://atcoder.jp/contests/abc163/tasks/abc163_e)|![Rate](https://img.shields.io/badge/1%20Dan-2037-yellow)|1 Dan|2037|[https://atcoder.jp/contests/abc163](https://atcoder.jp/contests/abc163)|
 |G|[ARC150_D](https://atcoder.jp/contests/arc150/tasks/arc150_d)|![Rate](https://img.shields.io/badge/3%20Dan-2407-orange)|3 Dan|2407|[https://atcoder.jp/contests/arc150](https://atcoder.jp/contests/arc150)|
 |H|[ARC105_E](https://atcoder.jp/contests/arc105/tasks/arc105_e)|![Rate](https://img.shields.io/badge/4%20Dan-2615-orange)|4 Dan|2615|[https://atcoder.jp/contests/arc105](https://atcoder.jp/contests/arc105)|
-
