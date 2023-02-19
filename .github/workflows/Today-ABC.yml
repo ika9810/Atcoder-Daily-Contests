@@ -3,7 +3,7 @@ name: Auto Today's Virtual Atcoder Beginner Contest (Daliy)
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 15 * * *'
 
 jobs:
   build:
