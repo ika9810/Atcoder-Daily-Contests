@@ -30,4 +30,3 @@
 |F|[ARC018_3](https://atcoder.jp/contests/arc018/tasks/arc018_3)|![Rate](https://img.shields.io/badge/1%20Kyu-1979-blue)|1 Kyu|1979|[https://atcoder.jp/contests/arc018](https://atcoder.jp/contests/arc018)|
 |G|[ARC017_4](https://atcoder.jp/contests/arc017/tasks/arc017_4)|![Rate](https://img.shields.io/badge/2%20Dan-2244-yellow)|2 Dan|2244|[https://atcoder.jp/contests/arc017](https://atcoder.jp/contests/arc017)|
 |H|[ARC147_F](https://atcoder.jp/contests/arc147/tasks/arc147_f)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-4016-red)|5 Dan or higher|4016|[https://atcoder.jp/contests/arc147](https://atcoder.jp/contests/arc147)|
-
