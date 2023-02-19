@@ -15,12 +15,12 @@ Atcoder
 
 | # | Problem |Rate| Kyu | Difficulty | Contest |
 |---| ----- | :--------: | :----------: | :----------: | ---------- |
-|A|[ABC093_B](https://atcoder.jp/contests/abc093/tasks/abc093_b)|![Rate](https://img.shields.io/badge/9%20Kyu-27-lightgrey)|9 Kyu|27|[https://atcoder.jp/contests/abc093](https://atcoder.jp/contests/abc093)|
-|B|[ABC176_C](https://atcoder.jp/contests/abc176/tasks/abc176_c)|![Rate](https://img.shields.io/badge/9%20Kyu---288-lightgrey)|9 Kyu|-288|[https://atcoder.jp/contests/abc176](https://atcoder.jp/contests/abc176)|
-|C|[ABC087_B](https://atcoder.jp/contests/abc087/tasks/abc087_b)|![Rate](https://img.shields.io/badge/9%20Kyu-161-lightgrey)|9 Kyu|161|[https://atcoder.jp/contests/abc087](https://atcoder.jp/contests/abc087)|
-|D|[ARC063_A](https://atcoder.jp/contests/arc063/tasks/arc063_a)|![Rate](https://img.shields.io/badge/7%20Kyu-755-critical)|7 Kyu|755|[https://atcoder.jp/contests/arc063](https://atcoder.jp/contests/arc063)|
-|E|[ARC091_B](https://atcoder.jp/contests/arc091/tasks/arc091_b)|![Rate](https://img.shields.io/badge/5%20Kyu-1129-brightgreen)|5 Kyu|1129|[https://atcoder.jp/contests/arc091](https://atcoder.jp/contests/arc091)|
-|F|[ABC235_F](https://atcoder.jp/contests/abc235/tasks/abc235_f)|![Rate](https://img.shields.io/badge/1%20Dan-2129-yellow)|1 Dan|2129|[https://atcoder.jp/contests/abc235](https://atcoder.jp/contests/abc235)|
-|G|[ARC039_D](https://atcoder.jp/contests/arc039/tasks/arc039_d)|![Rate](https://img.shields.io/badge/3%20Dan-2550-orange)|3 Dan|2550|[https://atcoder.jp/contests/arc039](https://atcoder.jp/contests/arc039)|
-|H|[AGC055_C](https://atcoder.jp/contests/agc055/tasks/agc055_c)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-2803-red)|5 Dan or higher|2803|[https://atcoder.jp/contests/agc055](https://atcoder.jp/contests/agc055)|
+|A|[ABC141_B](https://atcoder.jp/contests/abc141/tasks/abc141_b)|![Rate](https://img.shields.io/badge/9%20Kyu---424-lightgrey)|9 Kyu|-424|[https://atcoder.jp/contests/abc141](https://atcoder.jp/contests/abc141)|
+|B|[ABC280_C](https://atcoder.jp/contests/abc280/tasks/abc280_c)|![Rate](https://img.shields.io/badge/9%20Kyu---333-lightgrey)|9 Kyu|-333|[https://atcoder.jp/contests/abc280](https://atcoder.jp/contests/abc280)|
+|C|[ABC102_A](https://atcoder.jp/contests/abc102/tasks/abc102_a)|![Rate](https://img.shields.io/badge/9%20Kyu---690-lightgrey)|9 Kyu|-690|[https://atcoder.jp/contests/abc102](https://atcoder.jp/contests/abc102)|
+|D|[ABC048_B](https://atcoder.jp/contests/abc048/tasks/abc048_b)|![Rate](https://img.shields.io/badge/6%20Kyu-861-brightgreen)|6 Kyu|861|[https://atcoder.jp/contests/abc048](https://atcoder.jp/contests/abc048)|
+|E|[ARC072_A](https://atcoder.jp/contests/arc072/tasks/arc072_a)|![Rate](https://img.shields.io/badge/3%20Kyu-1409-green)|3 Kyu|1409|[https://atcoder.jp/contests/arc072](https://atcoder.jp/contests/arc072)|
+|F|[ABC149_E](https://atcoder.jp/contests/abc149/tasks/abc149_e)|![Rate](https://img.shields.io/badge/1%20Kyu-1905-blue)|1 Kyu|1905|[https://atcoder.jp/contests/abc149](https://atcoder.jp/contests/abc149)|
+|G|[ABC212_F](https://atcoder.jp/contests/abc212/tasks/abc212_f)|![Rate](https://img.shields.io/badge/2%20Dan-2332-yellow)|2 Dan|2332|[https://atcoder.jp/contests/abc212](https://atcoder.jp/contests/abc212)|
+|H|[ARC108_F](https://atcoder.jp/contests/arc108/tasks/arc108_f)|![Rate](https://img.shields.io/badge/4%20Dan-2646-orange)|4 Dan|2646|[https://atcoder.jp/contests/arc108](https://atcoder.jp/contests/arc108)|
 
