@@ -30,7 +30,7 @@ jobs:
         git config --local user.email "ika7204@naver.com"
         git config --local user.name "ika9810"
         git add .
-        git commit -m "⚙️[Daliy]Today's Virtual Atcoder Beginner Contest"
+        git commit -m "⚙️[Daliy]Today's Daliy Atcoder Contest(ABC, ARC, AGC)"
     - name: Push
       uses: ad-m/github-push-action@master
       with:

@@ -2,6 +2,8 @@ import requests
 from operator import itemgetter
 import csv
 import random
+import datetime
+import pytz
 
 # specify the URL to retrieve the data from
 url = 'https://kenkoooo.com/atcoder/resources/problem-models.json'
@@ -131,50 +133,96 @@ for line in rdr:
         dan5.append(line)
     print(line)
 f.close()
-A = kyu9
-B = kyu9
-C = kyu9 + kyu8
-D = kyu7 + kyu6
-E = kyu5 + kyu4 + kyu3 + kyu2
-F = kyu1 + dan1
-G = dan2 + dan3
-H = dan4 + dan5 
-problemArr = [A,B,C,D,E,F,G,H]
+contest_arr = ["abc","arc","agc"]
+generated_problem = []
+def getContesproblem(contest):
+    if contest == "abc":
+        ###############ABC############################
+        A = kyu9
+        B = kyu9
+        C = kyu9 + kyu8
+        D = kyu7 + kyu6
+        E = kyu5 + kyu4 + kyu3 + kyu2
+        F = kyu1 + dan1
+        G = dan2 + dan3
+        H = dan4 + dan5 
+        problemArr = [A,B,C,D,E,F,G,H,"### 🌟Today's Virtual Atcoder Beginner Contest "]
 
-import datetime
-import pytz
-timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-timeformat = f"{timeformat.strftime('(%Y-%m-%d)')}"
-saveline = ["🌟Today's Virtual Atcoder Beginner Contest\n", '========\n', '[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fika9810%2FAtcoder%2Fblob%2Fmain%2FABC.md&count_bg=%23FFC8C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)\n', "[![오늘의 문제](https://img.shields.io/badge/Today's%20ABC-Link-lightpink)](https://github.com/ika9810/Atcoder/blob/main/ABC.md)  \n", '[![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)\n']
-title = "### 🌟Today's Virtual Atcoder Beginner Contest "+timeformat
-saveline.append(title + '\n')
-saveline.append("(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)\n")
-saveline.append("\n")
-saveline.append("| # | Problem |Rate| Kyu | Difficulty | Contest |\n")
-saveline.append("|---| ----- | :--------: | :----------: | :----------: | ---------- |\n")
-plus = "-"
-minus = "--"
+        return problemArr
+    elif contest == "arc":
+        ###############ARC############################
+        A = kyu9 + kyu8 + kyu7
+        B = kyu7 + kyu6 + kyu5 + kyu4
+        C = kyu3 + kyu2 + kyu1 + dan1
+        D = dan2 + dan3 + dan4
+        E = dan4 + dan5
+        F = dan5
+        problemArr = [A,B,C,D,E,F,"### 🌟Today's Virtual Atcoder Regular Contest "]
 
-["🌟Today's Virtual Atcoder Beginner Contest\n", '========\n', '[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fika9810%2FAtcoder%2Fblob%2Fmain%2FABC.md&count_bg=%23FFC8C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)\n', '[![오늘의 문제](https://img.shields.io/badge/오늘의%20문제%20%28BETA%29-바로가기-112051)](https://github.com/tony9402/baekjoon/blob/main/picked.md) \n', '[![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)\n', "### 🌟Today's Virtual Atcoder Beginner Contest (23-02-19)\n", "(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)\n", '\n', '| # | Problem |Rate| Kyu | Difficulty | Contest |\n', '|---| ----- | :--------: | :----------: | :----------: | ---------- |\n', '|A|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|B|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|C|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|D|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|E|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|F|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|G|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '|H|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n', '\n']
-for i in range(65,73):
-    "|A|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n"
-    res = random.choice(problemArr[i-65])
-    val = plus if int(res[2])>0 else minus
-    msg = "|"+ chr(i)+"|["+res[1]+"]("+res[5]+")|![Rate](https://img.shields.io/badge/"+res[3].replace(" ","%20") + val + res[2]+ "-" + res[4] + ")|" + res[3].replace("%20", " ") + "|" + res[2] + "|[" + res[6] + "]("+ res[6] +")|\n"
-    saveline.append(msg)
-saveline.append("\n")
+        return problemArr
+    elif contest == "agc":
+        ###############AGC############################
+        A = kyu7 + kyu6 + kyu5 + kyu4
+        B = kyu3 + kyu2 + kyu1 + dan1
+        C = dan2 + dan3 + dan4
+        D = dan4 + dan5
+        E = dan5
+        F = dan5
+        problemArr = [A,B,C,D,E,F,"### 🌟Today's Virtual Atcoder Grand Contest "]
+        return problemArr
+#Generate Markdown by Contests
+for con in contest_arr:
+    problemArr = getContesproblem(con)
+    timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+    timeformat = f"{timeformat.strftime('(%Y-%m-%d)')}"
+    saveline = []
+    title = problemArr[-1]+timeformat
+
+    problemArr.pop(-1)
+
+    saveline.append(title + '\n')
+    saveline.append("(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)\n")
+    saveline.append("\n")
+    saveline.append("| # | Problem |Rate| Kyu | Difficulty | Contest |\n")
+    saveline.append("|---| ----- | :--------: | :----------: | :----------: | ---------- |\n")
+
+    plus = "-"
+    minus = "--"
+
+    for i in range(65,65 + len(problemArr)):
+        "|A|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1438-lightgrey)|9 Kyu|-1438|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|\n"
+        res = random.choice(problemArr[i-65])
+        val = plus if int(res[2])>0 else minus
+        msg = "|"+ chr(i)+"|["+res[1]+"]("+res[5]+")|![Rate](https://img.shields.io/badge/"+res[3].replace(" ","%20") + val + res[2]+ "-" + res[4] + ")|" + res[3].replace("%20", " ") + "|" + res[2] + "|[" + res[6] + "]("+ res[6] +")|\n"
+        saveline.append(msg)
+    saveline.append("\n")
+    generated_problem.append(saveline)
 
 f = open('ABC.md')
 lines = f.readlines()
 f.close()
 with open('./ABC.md', 'w') as f:
-    f.writelines(saveline + lines[5:])
+    f.writelines(lines[:7] + generated_problem[0] + lines[7:])
+    f.close()
+
+f = open('ARC.md')
+lines = f.readlines()
+f.close()
+with open('./ARC.md', 'w') as f:
+    f.writelines(lines[:7] + generated_problem[1] + lines[7:])
+    f.close()
+
+f = open('AGC.md')
+lines = f.readlines()
+f.close()
+with open('./AGC.md', 'w') as f:
+    f.writelines(lines[:7] + generated_problem[2] + lines[7:])
     f.close()
 f = open('README.md')
 lines = f.readlines()
 f.close()
 with open('./README.md', 'w') as f:
-    f.writelines(lines[:-14] + saveline[5:])
+    f.writelines(lines[:8] + generated_problem[0] + generated_problem[1] + generated_problem[2])
     f.close()
 #Atcoder Problem List
 # I used This Link "https://kenkoooo.com/atcoder/resources/problem-models.json"

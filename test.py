@@ -7,5 +7,5 @@ def make_table():
     data = dict()
     f = open('README.md')
     lines = f.readlines()
-    print(lines[:-14])
+    print(lines[:8])
 make_table()
