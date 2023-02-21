@@ -175,6 +175,8 @@ for con in contest_arr:
     problemArr = getContesproblem(con)
     timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
     timeformat = f"{timeformat.strftime('(%Y-%m-%d)')}"
+    dateformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+    date = f"{dateformat.strftime('%Y-%m-%d')}"
     saveline = []
     title = problemArr[-1]+timeformat
 
@@ -223,6 +225,9 @@ lines = f.readlines()
 f.close()
 with open('./README.md', 'w') as f:
     f.writelines(lines[:8] + generated_problem[0] + generated_problem[1] + generated_problem[2])
+    f.close()
+with open('./archive/'+date+".md", 'w') as f:
+    f.writelines(generated_problem[0] + generated_problem[1] + generated_problem[2])
     f.close()
 #Atcoder Problem List
 # I used This Link "https://kenkoooo.com/atcoder/resources/problem-models.json"
