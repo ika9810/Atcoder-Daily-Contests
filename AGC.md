@@ -5,6 +5,18 @@
 [![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ARC.md) 
 [![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/AGC.md) 
 [![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)
+### 🌟Today's Virtual Atcoder Grand Contest (2023-08-28)
+(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
+
+| # | Problem |Rate| Kyu | Difficulty | Contest |
+|---| ----- | :--------: | :----------: | :----------: | ---------- |
+|A|[ARC142_C](https://atcoder.jp/contests/arc142/tasks/arc142_c)|![Rate](https://img.shields.io/badge/4%20Kyu-1347-green)|4 Kyu|1347|[https://atcoder.jp/contests/arc142](https://atcoder.jp/contests/arc142)|
+|B|[ARC126_C](https://atcoder.jp/contests/arc126/tasks/arc126_c)|![Rate](https://img.shields.io/badge/1%20Kyu-1824-blue)|1 Kyu|1824|[https://atcoder.jp/contests/arc126](https://atcoder.jp/contests/arc126)|
+|C|[ARC057_C](https://atcoder.jp/contests/arc057/tasks/arc057_c)|![Rate](https://img.shields.io/badge/3%20Dan-2547-orange)|3 Dan|2547|[https://atcoder.jp/contests/arc057](https://atcoder.jp/contests/arc057)|
+|D|[AGC040_D](https://atcoder.jp/contests/agc040/tasks/agc040_d)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3452-red)|5 Dan or higher|3452|[https://atcoder.jp/contests/agc040](https://atcoder.jp/contests/agc040)|
+|E|[ARC155_D](https://atcoder.jp/contests/arc155/tasks/arc155_d)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3001-red)|5 Dan or higher|3001|[https://atcoder.jp/contests/arc155](https://atcoder.jp/contests/arc155)|
+|F|[AGC028_F](https://atcoder.jp/contests/agc028/tasks/agc028_f)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3462-red)|5 Dan or higher|3462|[https://atcoder.jp/contests/agc028](https://atcoder.jp/contests/agc028)|
+
 ### 🌟Today's Virtual Atcoder Grand Contest (2023-08-27)
 (Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
 
