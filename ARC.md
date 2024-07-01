@@ -5,6 +5,18 @@
 [![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ARC.md) 
 [![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/AGC.md) 
 [![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)
+### 🌟Today's Virtual Atcoder Regular Contest (2024-07-02)
+(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
+
+| # | Problem |Rate| Kyu | Difficulty | Contest |
+|---| ----- | :--------: | :----------: | :----------: | ---------- |
+|A|[ABC149_D](https://atcoder.jp/contests/abc149/tasks/abc149_d)|![Rate](https://img.shields.io/badge/7%20Kyu-719-critical)|7 Kyu|719|[https://atcoder.jp/contests/abc149](https://atcoder.jp/contests/abc149)|
+|B|[ARC115_C](https://atcoder.jp/contests/arc115/tasks/arc115_c)|![Rate](https://img.shields.io/badge/7%20Kyu-706-critical)|7 Kyu|706|[https://atcoder.jp/contests/arc115](https://atcoder.jp/contests/arc115)|
+|C|[ABC309_F](https://atcoder.jp/contests/abc309/tasks/abc309_f)|![Rate](https://img.shields.io/badge/2%20Kyu-1619-blue)|2 Kyu|1619|[https://atcoder.jp/contests/abc309](https://atcoder.jp/contests/abc309)|
+|D|[ABC268_G](https://atcoder.jp/contests/abc268/tasks/abc268_g)|![Rate](https://img.shields.io/badge/2%20Dan-2311-yellow)|2 Dan|2311|[https://atcoder.jp/contests/abc268](https://atcoder.jp/contests/abc268)|
+|E|[ARC103_B](https://atcoder.jp/contests/arc103/tasks/arc103_b)|![Rate](https://img.shields.io/badge/4%20Dan-2677-orange)|4 Dan|2677|[https://atcoder.jp/contests/arc103](https://atcoder.jp/contests/arc103)|
+|F|[AGC032_E](https://atcoder.jp/contests/agc032/tasks/agc032_e)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3402-red)|5 Dan or higher|3402|[https://atcoder.jp/contests/agc032](https://atcoder.jp/contests/agc032)|
+
 ### 🌟Today's Virtual Atcoder Regular Contest (2024-07-01)
 (Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
 
