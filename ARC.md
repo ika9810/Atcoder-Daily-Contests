@@ -5,6 +5,18 @@
 [![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ARC.md) 
 [![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/AGC.md) 
 [![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)
+### 🌟Today's Virtual Atcoder Regular Contest (2024-08-02)
+(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
+
+| # | Problem |Rate| Kyu | Difficulty | Contest |
+|---| ----- | :--------: | :----------: | :----------: | ---------- |
+|A|[ABC189_A](https://atcoder.jp/contests/abc189/tasks/abc189_a)|![Rate](https://img.shields.io/badge/9%20Kyu---1145-lightgrey)|9 Kyu|-1145|[https://atcoder.jp/contests/abc189](https://atcoder.jp/contests/abc189)|
+|B|[ABC006_3](https://atcoder.jp/contests/abc006/tasks/abc006_3)|![Rate](https://img.shields.io/badge/5%20Kyu-1158-brightgreen)|5 Kyu|1158|[https://atcoder.jp/contests/abc006](https://atcoder.jp/contests/abc006)|
+|C|[ABC329_E](https://atcoder.jp/contests/abc329/tasks/abc329_e)|![Rate](https://img.shields.io/badge/3%20Kyu-1539-green)|3 Kyu|1539|[https://atcoder.jp/contests/abc329](https://atcoder.jp/contests/abc329)|
+|D|[ARC122_E](https://atcoder.jp/contests/arc122/tasks/arc122_e)|![Rate](https://img.shields.io/badge/3%20Dan-2535-orange)|3 Dan|2535|[https://atcoder.jp/contests/arc122](https://atcoder.jp/contests/arc122)|
+|E|[ARC166_F](https://atcoder.jp/contests/arc166/tasks/arc166_f)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3692-red)|5 Dan or higher|3692|[https://atcoder.jp/contests/arc166](https://atcoder.jp/contests/arc166)|
+|F|[ARC072_D](https://atcoder.jp/contests/arc072/tasks/arc072_d)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3414-red)|5 Dan or higher|3414|[https://atcoder.jp/contests/arc072](https://atcoder.jp/contests/arc072)|
+
 ### 🌟Today's Virtual Atcoder Regular Contest (2024-08-01)
 (Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
 
