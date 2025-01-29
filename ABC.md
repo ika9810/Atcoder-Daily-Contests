@@ -5,6 +5,20 @@
 [![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ARC.md) 
 [![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/AGC.md) 
 [![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)
+### 🌟Today's Virtual Atcoder Beginner Contest (2025-01-30)
+(Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
+
+| # | Problem |Rate| Kyu | Difficulty | Contest |
+|---| ----- | :--------: | :----------: | :----------: | ---------- |
+|A|[ABC038_B](https://atcoder.jp/contests/abc038/tasks/abc038_b)|![Rate](https://img.shields.io/badge/9%20Kyu---31-lightgrey)|9 Kyu|-31|[https://atcoder.jp/contests/abc038](https://atcoder.jp/contests/abc038)|
+|B|[AGC030_A](https://atcoder.jp/contests/agc030/tasks/agc030_a)|![Rate](https://img.shields.io/badge/9%20Kyu---197-lightgrey)|9 Kyu|-197|[https://atcoder.jp/contests/agc030](https://atcoder.jp/contests/agc030)|
+|C|[AGC010_A](https://atcoder.jp/contests/agc010/tasks/agc010_a)|![Rate](https://img.shields.io/badge/9%20Kyu---10000-lightgrey)|9 Kyu|-10000|[https://atcoder.jp/contests/agc010](https://atcoder.jp/contests/agc010)|
+|D|[ABC344_E](https://atcoder.jp/contests/abc344/tasks/abc344_e)|![Rate](https://img.shields.io/badge/6%20Kyu-973-brightgreen)|6 Kyu|973|[https://atcoder.jp/contests/abc344](https://atcoder.jp/contests/abc344)|
+|E|[ABC262_D](https://atcoder.jp/contests/abc262/tasks/abc262_d)|![Rate](https://img.shields.io/badge/4%20Kyu-1213-green)|4 Kyu|1213|[https://atcoder.jp/contests/abc262](https://atcoder.jp/contests/abc262)|
+|F|[ABC296_F](https://atcoder.jp/contests/abc296/tasks/abc296_f)|![Rate](https://img.shields.io/badge/1%20Kyu-1811-blue)|1 Kyu|1811|[https://atcoder.jp/contests/abc296](https://atcoder.jp/contests/abc296)|
+|G|[ABC379_G](https://atcoder.jp/contests/abc379/tasks/abc379_g)|![Rate](https://img.shields.io/badge/2%20Dan-2304-yellow)|2 Dan|2304|[https://atcoder.jp/contests/abc379](https://atcoder.jp/contests/abc379)|
+|H|[ABC281_H](https://atcoder.jp/contests/abc281/tasks/abc281_h)|![Rate](https://img.shields.io/badge/5%20Dan%20or%20higher-3180-red)|5 Dan or higher|3180|[https://atcoder.jp/contests/abc281](https://atcoder.jp/contests/abc281)|
+
 ### 🌟Today's Virtual Atcoder Beginner Contest (2025-01-29)
 (Notes: The problems in this contest were curated based on their level of difficulty and listed from Atcoder's existing problems)
 
